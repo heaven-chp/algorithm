@@ -7,4 +7,4 @@
  - `go run xxx.go`
 
 ## Python
- - python xxx.py
+ - `python xxx.py`
