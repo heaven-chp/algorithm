@@ -8,3 +8,6 @@
 
 ## Python
  - `python xxx.py`
+
+## Java
+ - `java xxx.java`
